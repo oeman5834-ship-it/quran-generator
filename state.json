@@ -1,0 +1,809 @@
+{
+  "total_generated": 80,
+  "last_reciter_idx": 10,
+  "last_surah": 1,
+  "last_ayah": 0,
+  "last_generated": null,
+  "history": [
+    {
+      "surah": 25,
+      "surah_name": "الفرقان",
+      "start_ayah": 51,
+      "end_ayah": 53,
+      "reciter": "عبدالباسط عبدالصمد (مجود)",
+      "duration": 64.8,
+      "video_id": null,
+      "date": "2026-10-04 20:17:02"
+    },
+    {
+      "surah": 88,
+      "surah_name": "الغاشية",
+      "start_ayah": 3,
+      "end_ayah": 15,
+      "reciter": "محمد صديق المنشاوي (مرتل)",
+      "duration": 60.9,
+      "video_id": null,
+      "date": "2026-10-05 05:56:05"
+    },
+    {
+      "surah": 104,
+      "surah_name": "الهمزة",
+      "start_ayah": 4,
+      "end_ayah": 9,
+      "reciter": "محمد صديق المنشاوي (مجود)",
+      "duration": 48.3,
+      "video_id": null,
+      "date": "2026-10-05 12:39:19"
+    },
+    {
+      "surah": 112,
+      "surah_name": "الإخلاص",
+      "start_ayah": 1,
+      "end_ayah": 4,
+      "reciter": "محمود خليل الحصري",
+      "duration": 21.3,
+      "video_id": null,
+      "date": "2026-10-05 19:47:00"
+    },
+    {
+      "surah": 39,
+      "surah_name": "الزمر",
+      "start_ayah": 72,
+      "end_ayah": 73,
+      "reciter": "مشاري العفاسي",
+      "duration": 45.2,
+      "video_id": null,
+      "date": "2026-10-05 23:14:17"
+    },
+    {
+      "surah": 91,
+      "surah_name": "الشمس",
+      "start_ayah": 12,
+      "end_ayah": 15,
+      "reciter": "ماهر المعيقلي",
+      "duration": 38.6,
+      "video_id": null,
+      "date": "2026-10-06 06:33:32"
+    },
+    {
+      "surah": 85,
+      "surah_name": "البروج",
+      "start_ayah": 4,
+      "end_ayah": 15,
+      "reciter": "سعود الشريم",
+      "duration": 61.4,
+      "video_id": null,
+      "date": "2026-10-06 12:17:15"
+    },
+    {
+      "surah": 85,
+      "surah_name": "البروج",
+      "start_ayah": 16,
+      "end_ayah": 22,
+      "reciter": "عبدالرحمن السديس",
+      "duration": 40.0,
+      "video_id": null,
+      "date": "2026-10-06 17:26:43"
+    },
+    {
+      "surah": 98,
+      "surah_name": "البينة",
+      "start_ayah": 4,
+      "end_ayah": 7,
+      "reciter": "سعد الغامدي",
+      "duration": 60.2,
+      "video_id": null,
+      "date": "2026-10-06 21:43:57"
+    },
+    {
+      "surah": 89,
+      "surah_name": "الفجر",
+      "start_ayah": 10,
+      "end_ayah": 19,
+      "reciter": "ياسر الدوسري",
+      "duration": 59.8,
+      "video_id": null,
+      "date": "2026-10-07 06:13:42"
+    },
+    {
+      "surah": 46,
+      "surah_name": "الأحقاف",
+      "start_ayah": 26,
+      "end_ayah": 27,
+      "reciter": "ناصر القطامي",
+      "duration": 60.6,
+      "video_id": null,
+      "date": "2026-10-07 12:03:32"
+    },
+    {
+      "surah": 93,
+      "surah_name": "الضحى",
+      "start_ayah": 1,
+      "end_ayah": 11,
+      "reciter": "أحمد العجمي",
+      "duration": 50.1,
+      "video_id": null,
+      "date": "2026-10-07 18:09:48"
+    },
+    {
+      "surah": 80,
+      "surah_name": "عبس",
+      "start_ayah": 8,
+      "end_ayah": 21,
+      "reciter": "أبو بكر الشاطري",
+      "duration": 56.8,
+      "video_id": null,
+      "date": "2026-10-07 22:04:18"
+    },
+    {
+      "surah": 54,
+      "surah_name": "القمر",
+      "start_ayah": 50,
+      "end_ayah": 55,
+      "reciter": "عبدالباسط عبدالصمد (مرتل)",
+      "duration": 48.7,
+      "video_id": null,
+      "date": "2026-10-08 06:20:31"
+    },
+    {
+      "surah": 95,
+      "surah_name": "التين",
+      "start_ayah": 4,
+      "end_ayah": 8,
+      "reciter": "عبدالباسط عبدالصمد (مجود)",
+      "duration": 59.6,
+      "video_id": null,
+      "date": "2026-10-08 12:38:22"
+    },
+    {
+      "surah": 110,
+      "surah_name": "النصر",
+      "start_ayah": 1,
+      "end_ayah": 3,
+      "reciter": "محمد صديق المنشاوي (مرتل)",
+      "duration": 28.8,
+      "video_id": null,
+      "date": "2026-10-08 18:01:40"
+    },
+    {
+      "surah": 84,
+      "surah_name": "الانشقاق",
+      "start_ayah": 11,
+      "end_ayah": 18,
+      "reciter": "محمد صديق المنشاوي (مجود)",
+      "duration": 59.6,
+      "video_id": null,
+      "date": "2026-10-08 22:13:37"
+    },
+    {
+      "surah": 112,
+      "surah_name": "الإخلاص",
+      "start_ayah": 3,
+      "end_ayah": 4,
+      "reciter": "محمود خليل الحصري",
+      "duration": 21.3,
+      "video_id": null,
+      "date": "2026-10-09 06:20:05"
+    },
+    {
+      "surah": 111,
+      "surah_name": "المسد",
+      "start_ayah": 1,
+      "end_ayah": 5,
+      "reciter": "مشاري العفاسي",
+      "duration": 31.2,
+      "video_id": null,
+      "date": "2026-10-09 12:06:53"
+    },
+    {
+      "surah": 75,
+      "surah_name": "القيامة",
+      "start_ayah": 20,
+      "end_ayah": 37,
+      "reciter": "ماهر المعيقلي",
+      "duration": 59.6,
+      "video_id": null,
+      "date": "2026-10-09 21:47:26"
+    },
+    {
+      "surah": 99,
+      "surah_name": "الزلزلة",
+      "start_ayah": 5,
+      "end_ayah": 8,
+      "reciter": "سعود الشريم",
+      "duration": 35.9,
+      "video_id": null,
+      "date": "2026-10-10 06:03:13"
+    },
+    {
+      "surah": 86,
+      "surah_name": "الطارق",
+      "start_ayah": 3,
+      "end_ayah": 16,
+      "reciter": "عبدالرحمن السديس",
+      "duration": 55.8,
+      "video_id": null,
+      "date": "2026-10-10 11:25:47"
+    },
+    {
+      "surah": 101,
+      "surah_name": "القارعة",
+      "start_ayah": 2,
+      "end_ayah": 11,
+      "reciter": "سعد الغامدي",
+      "duration": 43.8,
+      "video_id": null,
+      "date": "2026-10-10 16:26:01"
+    },
+    {
+      "surah": 103,
+      "surah_name": "العصر",
+      "start_ayah": 1,
+      "end_ayah": 3,
+      "reciter": "ياسر الدوسري",
+      "duration": 20.4,
+      "video_id": null,
+      "date": "2026-10-10 20:36:59"
+    },
+    {
+      "surah": 1,
+      "surah_name": "الفاتحة",
+      "start_ayah": 2,
+      "end_ayah": 7,
+      "reciter": "ناصر القطامي",
+      "duration": 38.7,
+      "video_id": null,
+      "date": "2026-10-11 06:02:27"
+    },
+    {
+      "surah": 49,
+      "surah_name": "الحجرات",
+      "start_ayah": 12,
+      "end_ayah": 12,
+      "reciter": "أحمد العجمي",
+      "duration": 42.3,
+      "video_id": null,
+      "date": "2026-10-11 11:38:13"
+    },
+    {
+      "surah": 102,
+      "surah_name": "التكاثر",
+      "start_ayah": 3,
+      "end_ayah": 8,
+      "reciter": "أبو بكر الشاطري",
+      "duration": 34.1,
+      "video_id": null,
+      "date": "2026-10-11 16:47:41"
+    },
+    {
+      "surah": 79,
+      "surah_name": "النازعات",
+      "start_ayah": 37,
+      "end_ayah": 45,
+      "reciter": "عبدالباسط عبدالصمد (مرتل)",
+      "duration": 51.6,
+      "video_id": null,
+      "date": "2026-10-11 21:01:38"
+    },
+    {
+      "surah": 113,
+      "surah_name": "الفلق",
+      "start_ayah": 2,
+      "end_ayah": 5,
+      "reciter": "عبدالباسط عبدالصمد (مجود)",
+      "duration": 48.2,
+      "video_id": null,
+      "date": "2026-10-12 06:11:32"
+    },
+    {
+      "surah": 82,
+      "surah_name": "الانفطار",
+      "start_ayah": 13,
+      "end_ayah": 19,
+      "reciter": "محمد صديق المنشاوي (مرتل)",
+      "duration": 48.8,
+      "video_id": null,
+      "date": "2026-10-12 13:33:01"
+    },
+    {
+      "surah": 100,
+      "surah_name": "العاديات",
+      "start_ayah": 4,
+      "end_ayah": 10,
+      "reciter": "محمد صديق المنشاوي (مجود)",
+      "duration": 60.4,
+      "video_id": null,
+      "date": "2026-10-12 20:32:37"
+    },
+    {
+      "surah": 76,
+      "surah_name": "الإنسان",
+      "start_ayah": 7,
+      "end_ayah": 10,
+      "reciter": "محمود خليل الحصري",
+      "duration": 58.4,
+      "video_id": null,
+      "date": "2026-10-12 23:42:51"
+    },
+    {
+      "surah": 96,
+      "surah_name": "العلق",
+      "start_ayah": 5,
+      "end_ayah": 18,
+      "reciter": "مشاري العفاسي",
+      "duration": 60.9,
+      "video_id": null,
+      "date": "2026-10-13 06:57:16"
+    },
+    {
+      "surah": 95,
+      "surah_name": "التين",
+      "start_ayah": 3,
+      "end_ayah": 8,
+      "reciter": "ماهر المعيقلي",
+      "duration": 33.9,
+      "video_id": null,
+      "date": "2026-10-13 12:59:12"
+    },
+    {
+      "surah": 64,
+      "surah_name": "التغابن",
+      "start_ayah": 16,
+      "end_ayah": 18,
+      "reciter": "سعود الشريم",
+      "duration": 38.7,
+      "video_id": null,
+      "date": "2026-10-13 18:32:00"
+    },
+    {
+      "surah": 72,
+      "surah_name": "الجن",
+      "start_ayah": 24,
+      "end_ayah": 28,
+      "reciter": "عبدالرحمن السديس",
+      "duration": 48.0,
+      "video_id": null,
+      "date": "2026-10-13 21:56:22"
+    },
+    {
+      "surah": 86,
+      "surah_name": "الطارق",
+      "start_ayah": 5,
+      "end_ayah": 17,
+      "reciter": "سعد الغامدي",
+      "duration": 55.4,
+      "video_id": null,
+      "date": "2026-10-14 05:05:02"
+    },
+    {
+      "surah": 94,
+      "surah_name": "الشرح",
+      "start_ayah": 2,
+      "end_ayah": 8,
+      "reciter": "ياسر الدوسري",
+      "duration": 28.4,
+      "video_id": null,
+      "date": "2026-10-14 10:36:30"
+    },
+    {
+      "surah": 22,
+      "surah_name": "الحج",
+      "start_ayah": 58,
+      "end_ayah": 60,
+      "reciter": "ناصر القطامي",
+      "duration": 59.8,
+      "video_id": null,
+      "date": "2026-10-14 16:01:07"
+    },
+    {
+      "surah": 25,
+      "surah_name": "الفرقان",
+      "start_ayah": 3,
+      "end_ayah": 5,
+      "reciter": "أحمد العجمي",
+      "duration": 57.1,
+      "video_id": null,
+      "date": "2026-10-14 20:47:14"
+    },
+    {
+      "surah": 105,
+      "surah_name": "الفيل",
+      "start_ayah": 2,
+      "end_ayah": 5,
+      "reciter": "أبو بكر الشاطري",
+      "duration": 27.9,
+      "video_id": null,
+      "date": "2026-10-15 04:52:36"
+    },
+    {
+      "surah": 64,
+      "surah_name": "التغابن",
+      "start_ayah": 6,
+      "end_ayah": 7,
+      "reciter": "عبدالباسط عبدالصمد (مرتل)",
+      "duration": 52.3,
+      "video_id": null,
+      "date": "2026-10-15 10:20:16"
+    },
+    {
+      "surah": 79,
+      "surah_name": "النازعات",
+      "start_ayah": 8,
+      "end_ayah": 15,
+      "reciter": "عبدالباسط عبدالصمد (مجود)",
+      "duration": 60.3,
+      "video_id": null,
+      "date": "2026-10-15 15:47:26"
+    },
+    {
+      "surah": 31,
+      "surah_name": "لقمان",
+      "start_ayah": 33,
+      "end_ayah": 33,
+      "reciter": "محمد صديق المنشاوي (مرتل)",
+      "duration": 43.5,
+      "video_id": null,
+      "date": "2026-10-15 20:24:59"
+    },
+    {
+      "surah": 83,
+      "surah_name": "المطففين",
+      "start_ayah": 10,
+      "end_ayah": 13,
+      "reciter": "محمد صديق المنشاوي (مجود)",
+      "duration": 59.6,
+      "video_id": null,
+      "date": "2026-10-16 04:44:54"
+    },
+    {
+      "surah": 29,
+      "surah_name": "العنكبوت",
+      "start_ayah": 36,
+      "end_ayah": 38,
+      "reciter": "محمود خليل الحصري",
+      "duration": 59.9,
+      "video_id": null,
+      "date": "2026-10-16 10:08:29"
+    },
+    {
+      "surah": 108,
+      "surah_name": "الكوثر",
+      "start_ayah": 1,
+      "end_ayah": 3,
+      "reciter": "مشاري العفاسي",
+      "duration": 16.5,
+      "video_id": null,
+      "date": "2026-10-16 15:31:10"
+    },
+    {
+      "surah": 105,
+      "surah_name": "الفيل",
+      "start_ayah": 4,
+      "end_ayah": 5,
+      "reciter": "ماهر المعيقلي",
+      "duration": 25.5,
+      "video_id": null,
+      "date": "2026-10-16 20:00:27"
+    },
+    {
+      "surah": 114,
+      "surah_name": "الناس",
+      "start_ayah": 2,
+      "end_ayah": 6,
+      "reciter": "سعود الشريم",
+      "duration": 23.1,
+      "video_id": null,
+      "date": "2026-10-17 04:39:30"
+    },
+    {
+      "surah": 79,
+      "surah_name": "النازعات",
+      "start_ayah": 14,
+      "end_ayah": 28,
+      "reciter": "عبدالرحمن السديس",
+      "duration": 59.3,
+      "video_id": null,
+      "date": "2026-10-17 09:42:49"
+    },
+    {
+      "surah": 90,
+      "surah_name": "البلد",
+      "start_ayah": 8,
+      "end_ayah": 20,
+      "reciter": "سعد الغامدي",
+      "duration": 58.4,
+      "video_id": null,
+      "date": "2026-10-17 14:26:25"
+    },
+    {
+      "surah": 85,
+      "surah_name": "البروج",
+      "start_ayah": 9,
+      "end_ayah": 14,
+      "reciter": "ياسر الدوسري",
+      "duration": 60.3,
+      "video_id": null,
+      "date": "2026-10-17 19:32:20"
+    },
+    {
+      "surah": 70,
+      "surah_name": "المعارج",
+      "start_ayah": 41,
+      "end_ayah": 44,
+      "reciter": "ناصر القطامي",
+      "duration": 50.1,
+      "video_id": null,
+      "date": "2026-10-18 04:47:06"
+    },
+    {
+      "surah": 96,
+      "surah_name": "العلق",
+      "start_ayah": 2,
+      "end_ayah": 16,
+      "reciter": "أحمد العجمي",
+      "duration": 59.8,
+      "video_id": null,
+      "date": "2026-10-18 09:55:25"
+    },
+    {
+      "surah": 23,
+      "surah_name": "المؤمنون",
+      "start_ayah": 19,
+      "end_ayah": 22,
+      "reciter": "أبو بكر الشاطري",
+      "duration": 56.2,
+      "video_id": null,
+      "date": "2026-10-18 14:51:29"
+    },
+    {
+      "surah": 98,
+      "surah_name": "البينة",
+      "start_ayah": 1,
+      "end_ayah": 5,
+      "reciter": "عبدالباسط عبدالصمد (مرتل)",
+      "duration": 57.7,
+      "video_id": null,
+      "date": "2026-10-18 19:31:21"
+    },
+    {
+      "surah": 90,
+      "surah_name": "البلد",
+      "start_ayah": 9,
+      "end_ayah": 16,
+      "reciter": "عبدالباسط عبدالصمد (مجود)",
+      "duration": 53.5,
+      "video_id": null,
+      "date": "2026-10-19 04:55:39"
+    },
+    {
+      "surah": 40,
+      "surah_name": "غافر",
+      "start_ayah": 60,
+      "end_ayah": 63,
+      "reciter": "محمد صديق المنشاوي (مرتل)",
+      "duration": 58.6,
+      "video_id": null,
+      "date": "2026-10-19 11:17:23"
+    },
+    {
+      "surah": 101,
+      "surah_name": "القارعة",
+      "start_ayah": 7,
+      "end_ayah": 11,
+      "reciter": "محمد صديق المنشاوي (مجود)",
+      "duration": 42.1,
+      "video_id": null,
+      "date": "2026-10-19 17:46:50"
+    },
+    {
+      "surah": 114,
+      "surah_name": "الناس",
+      "start_ayah": 3,
+      "end_ayah": 6,
+      "reciter": "محمود خليل الحصري",
+      "duration": 41.2,
+      "video_id": null,
+      "date": "2026-10-19 21:36:41"
+    },
+    {
+      "surah": 109,
+      "surah_name": "الكافرون",
+      "start_ayah": 5,
+      "end_ayah": 6,
+      "reciter": "مشاري العفاسي",
+      "duration": 44.2,
+      "video_id": null,
+      "date": "2026-10-20 05:02:30"
+    },
+    {
+      "surah": 54,
+      "surah_name": "القمر",
+      "start_ayah": 45,
+      "end_ayah": 55,
+      "reciter": "ماهر المعيقلي",
+      "duration": 58.8,
+      "video_id": null,
+      "date": "2026-10-20 10:31:57"
+    },
+    {
+      "surah": 82,
+      "surah_name": "الانفطار",
+      "start_ayah": 15,
+      "end_ayah": 19,
+      "reciter": "سعود الشريم",
+      "duration": 38.8,
+      "video_id": null,
+      "date": "2026-10-20 15:51:51"
+    },
+    {
+      "surah": 76,
+      "surah_name": "الإنسان",
+      "start_ayah": 25,
+      "end_ayah": 30,
+      "reciter": "عبدالرحمن السديس",
+      "duration": 54.0,
+      "video_id": null,
+      "date": "2026-10-20 20:42:21"
+    },
+    {
+      "surah": 48,
+      "surah_name": "الفتح",
+      "start_ayah": 8,
+      "end_ayah": 10,
+      "reciter": "سعد الغامدي",
+      "duration": 50.0,
+      "video_id": null,
+      "date": "2026-10-21 05:02:52"
+    },
+    {
+      "surah": 44,
+      "surah_name": "الدخان",
+      "start_ayah": 7,
+      "end_ayah": 13,
+      "reciter": "ياسر الدوسري",
+      "duration": 55.7,
+      "video_id": null,
+      "date": "2026-10-21 10:38:57"
+    },
+    {
+      "surah": 78,
+      "surah_name": "النبأ",
+      "start_ayah": 8,
+      "end_ayah": 18,
+      "reciter": "ناصر القطامي",
+      "duration": 58.6,
+      "video_id": null,
+      "date": "2026-10-21 16:08:35"
+    },
+    {
+      "surah": 99,
+      "surah_name": "الزلزلة",
+      "start_ayah": 4,
+      "end_ayah": 8,
+      "reciter": "أحمد العجمي",
+      "duration": 44.3,
+      "video_id": null,
+      "date": "2026-10-21 20:43:14"
+    },
+    {
+      "surah": 105,
+      "surah_name": "الفيل",
+      "start_ayah": 1,
+      "end_ayah": 5,
+      "reciter": "أبو بكر الشاطري",
+      "duration": 27.9,
+      "video_id": null,
+      "date": "2026-10-22 05:01:58"
+    },
+    {
+      "surah": 78,
+      "surah_name": "النبأ",
+      "start_ayah": 28,
+      "end_ayah": 37,
+      "reciter": "عبدالباسط عبدالصمد (مرتل)",
+      "duration": 59.9,
+      "video_id": null,
+      "date": "2026-10-22 10:40:39"
+    },
+    {
+      "surah": 72,
+      "surah_name": "الجن",
+      "start_ayah": 11,
+      "end_ayah": 12,
+      "reciter": "عبدالباسط عبدالصمد (مجود)",
+      "duration": 42.9,
+      "video_id": null,
+      "date": "2026-10-22 16:03:38"
+    },
+    {
+      "surah": 78,
+      "surah_name": "النبأ",
+      "start_ayah": 33,
+      "end_ayah": 37,
+      "reciter": "محمد صديق المنشاوي (مرتل)",
+      "duration": 40.8,
+      "video_id": null,
+      "date": "2026-10-22 20:38:38"
+    },
+    {
+      "surah": 100,
+      "surah_name": "العاديات",
+      "start_ayah": 6,
+      "end_ayah": 11,
+      "reciter": "محمد صديق المنشاوي (مجود)",
+      "duration": 59.4,
+      "video_id": null,
+      "date": "2026-10-23 05:04:14"
+    },
+    {
+      "surah": 34,
+      "surah_name": "سبأ",
+      "start_ayah": 46,
+      "end_ayah": 46,
+      "reciter": "محمود خليل الحصري",
+      "duration": 46.6,
+      "video_id": null,
+      "date": "2026-10-23 10:32:18"
+    },
+    {
+      "surah": 44,
+      "surah_name": "الدخان",
+      "start_ayah": 16,
+      "end_ayah": 19,
+      "reciter": "مشاري العفاسي",
+      "duration": 56.1,
+      "video_id": null,
+      "date": "2026-10-23 15:56:23"
+    },
+    {
+      "surah": 99,
+      "surah_name": "الزلزلة",
+      "start_ayah": 3,
+      "end_ayah": 8,
+      "reciter": "ماهر المعيقلي",
+      "duration": 37.5,
+      "video_id": null,
+      "date": "2026-10-23 20:31:34"
+    },
+    {
+      "surah": 100,
+      "surah_name": "العاديات",
+      "start_ayah": 2,
+      "end_ayah": 11,
+      "reciter": "سعود الشريم",
+      "duration": 39.1,
+      "video_id": null,
+      "date": "2026-10-24 04:48:38"
+    },
+    {
+      "surah": 105,
+      "surah_name": "الفيل",
+      "start_ayah": 3,
+      "end_ayah": 5,
+      "reciter": "عبدالرحمن السديس",
+      "duration": 34.4,
+      "video_id": null,
+      "date": "2026-10-24 09:48:57"
+    },
+    {
+      "surah": 13,
+      "surah_name": "الرعد",
+      "start_ayah": 2,
+      "end_ayah": 3,
+      "reciter": "سعد الغامدي",
+      "duration": 54.8,
+      "video_id": null,
+      "date": "2026-10-24 15:13:42"
+    },
+    {
+      "surah": 85,
+      "surah_name": "البروج",
+      "start_ayah": 8,
+      "end_ayah": 11,
+      "reciter": "ياسر الدوسري",
+      "duration": 57.6,
+      "video_id": null,
+      "date": "2026-10-24 19:34:23"
+    }
+  ]
+}
