@@ -133,3 +133,4 @@ An open-source, fully automated 24/7 engine to generate and publish high-quality
 
 ## 🤲 ترخيص وصدقة جارية (License)
 هذا المشروع مفتوح المصدر ومتاح للجميع بنية الصدقة الجارية لوجه الله تعالى. نسألكم الدعاء بظهر الغيب.
+# quran-generator
