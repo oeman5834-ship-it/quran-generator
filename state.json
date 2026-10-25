@@ -1,6 +1,6 @@
 {
-  "total_generated": 81,
-  "last_reciter_idx": 11,
+  "total_generated": 82,
+  "last_reciter_idx": 12,
   "last_surah": 1,
   "last_ayah": 0,
   "last_generated": null,
@@ -814,6 +814,16 @@
       "duration": 42.2,
       "video_id": null,
       "date": "2026-10-25 06:08:09"
+    },
+    {
+      "surah": 22,
+      "surah_name": "الحج",
+      "start_ayah": 60,
+      "end_ayah": 62,
+      "reciter": "أحمد العجمي",
+      "duration": 56.4,
+      "video_id": null,
+      "date": "2026-10-25 12:00:30"
     }
   ]
 }
