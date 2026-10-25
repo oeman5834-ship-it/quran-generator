@@ -1,6 +1,6 @@
 {
-  "total_generated": 82,
-  "last_reciter_idx": 12,
+  "total_generated": 83,
+  "last_reciter_idx": 13,
   "last_surah": 1,
   "last_ayah": 0,
   "last_generated": null,
@@ -824,6 +824,16 @@
       "duration": 56.4,
       "video_id": null,
       "date": "2026-10-25 12:00:30"
+    },
+    {
+      "surah": 101,
+      "surah_name": "القارعة",
+      "start_ayah": 5,
+      "end_ayah": 11,
+      "reciter": "أبو بكر الشاطري",
+      "duration": 39.2,
+      "video_id": null,
+      "date": "2026-10-25 17:48:02"
     }
   ]
 }
