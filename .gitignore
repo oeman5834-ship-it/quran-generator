@@ -37,3 +37,4 @@ __pycache__/
 Thumbs.db
 .DS_Store
 state_backup.json
+bin/ffmpeg/ffmpeg.exe
