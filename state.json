@@ -1,6 +1,6 @@
 {
-  "total_generated": 80,
-  "last_reciter_idx": 10,
+  "total_generated": 81,
+  "last_reciter_idx": 11,
   "last_surah": 1,
   "last_ayah": 0,
   "last_generated": null,
@@ -804,6 +804,16 @@
       "duration": 57.6,
       "video_id": null,
       "date": "2026-10-24 19:34:23"
+    },
+    {
+      "surah": 79,
+      "surah_name": "النازعات",
+      "start_ayah": 45,
+      "end_ayah": 46,
+      "reciter": "ناصر القطامي",
+      "duration": 42.2,
+      "video_id": null,
+      "date": "2026-10-25 06:08:09"
     }
   ]
 }
