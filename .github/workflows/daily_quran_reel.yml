@@ -82,7 +82,7 @@ jobs:
         run: |
           mkdir -p outputs/audio outputs/video
 
-      # Step 7: Generate the Quran Reel
+   # Step 7: Generate the Quran Reel
       - name: 📖 Generate Quran Reel
         run: |
           echo "=== Python version ==="
@@ -95,9 +95,9 @@ jobs:
           ls -la fonts/ || echo "No fonts directory"
           echo "=== Starting generation ==="
           if [ "${{ github.event.inputs.test_mode }}" == "true" ]; then
-            python auto_generate.py --test 2>&1 || true
+            python auto_generate.py --test
           else
-            python auto_generate.py 2>&1 || true
+            python auto_generate.py
           fi
           echo "=== Generation log ==="
           cat auto_generate.log 2>/dev/null || echo "No log file"
@@ -110,7 +110,7 @@ jobs:
             echo "❌ No video created. Check logs above."
             exit 1
           fi
-
+          
       # Step 8: Save state back to repository (with rebase to avoid conflicts)
       - name: 💾 Save State
         run: |
