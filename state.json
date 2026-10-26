@@ -1,6 +1,6 @@
 {
-  "total_generated": 87,
-  "last_reciter_idx": 3,
+  "total_generated": 88,
+  "last_reciter_idx": 4,
   "last_surah": 1,
   "last_ayah": 0,
   "last_generated": null,
@@ -874,6 +874,16 @@
       "duration": 46.1,
       "video_id": null,
       "date": "2026-10-26 17:56:54"
+    },
+    {
+      "surah": 15,
+      "surah_name": "الحجر",
+      "start_ayah": 72,
+      "end_ayah": 76,
+      "reciter": "محمود خليل الحصري",
+      "duration": 54.1,
+      "video_id": null,
+      "date": "2026-10-26 21:29:40"
     }
   ]
 }
