@@ -1,6 +1,6 @@
 {
-  "total_generated": 88,
-  "last_reciter_idx": 4,
+  "total_generated": 89,
+  "last_reciter_idx": 5,
   "last_surah": 1,
   "last_ayah": 0,
   "last_generated": null,
@@ -884,6 +884,16 @@
       "duration": 54.1,
       "video_id": null,
       "date": "2026-10-26 21:29:40"
+    },
+    {
+      "surah": 11,
+      "surah_name": "هود",
+      "start_ayah": 34,
+      "end_ayah": 35,
+      "reciter": "مشاري العفاسي",
+      "duration": 44.0,
+      "video_id": null,
+      "date": "2026-10-26 23:00:08"
     }
   ]
 }
