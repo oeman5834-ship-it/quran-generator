@@ -1,6 +1,6 @@
 {
-  "total_generated": 90,
-  "last_reciter_idx": 6,
+  "total_generated": 91,
+  "last_reciter_idx": 7,
   "last_surah": 1,
   "last_ayah": 0,
   "last_generated": null,
@@ -904,6 +904,16 @@
       "duration": 34.1,
       "video_id": "_QN4PRNfXRw",
       "date": "2026-10-26 23:50:13"
+    },
+    {
+      "surah": 108,
+      "surah_name": "الكوثر",
+      "start_ayah": 2,
+      "end_ayah": 3,
+      "reciter": "سعود الشريم",
+      "duration": 12.6,
+      "video_id": "G2BIGBh0_bk",
+      "date": "2026-10-27 01:11:21"
     }
   ]
 }
