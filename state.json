@@ -1,6 +1,6 @@
 {
-  "total_generated": 96,
-  "last_reciter_idx": 12,
+  "total_generated": 97,
+  "last_reciter_idx": 13,
   "last_surah": 1,
   "last_ayah": 0,
   "last_generated": null,
@@ -964,6 +964,16 @@
       "duration": 41.9,
       "video_id": "z1CQ6MZNg0g",
       "date": "2026-10-28 12:15:44"
+    },
+    {
+      "surah": 39,
+      "surah_name": "الزمر",
+      "start_ayah": 62,
+      "end_ayah": 66,
+      "reciter": "أبو بكر الشاطري",
+      "duration": 60.7,
+      "video_id": "kcyX-7Si34g",
+      "date": "2026-10-28 18:04:45"
     }
   ]
 }
