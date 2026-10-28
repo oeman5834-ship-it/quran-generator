@@ -1,6 +1,6 @@
 {
-  "total_generated": 93,
-  "last_reciter_idx": 9,
+  "total_generated": 94,
+  "last_reciter_idx": 10,
   "last_surah": 1,
   "last_ayah": 0,
   "last_generated": null,
@@ -934,6 +934,16 @@
       "duration": 60.6,
       "video_id": "9s-Lh2gvUG8",
       "date": "2026-10-27 12:11:11"
+    },
+    {
+      "surah": 106,
+      "surah_name": "قريش",
+      "start_ayah": 1,
+      "end_ayah": 4,
+      "reciter": "ياسر الدوسري",
+      "duration": 23.2,
+      "video_id": "pok_N6o_8SQ",
+      "date": "2026-10-28 01:26:51"
     }
   ]
 }
