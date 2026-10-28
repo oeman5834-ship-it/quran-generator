@@ -1,6 +1,6 @@
 {
-  "total_generated": 94,
-  "last_reciter_idx": 10,
+  "total_generated": 95,
+  "last_reciter_idx": 11,
   "last_surah": 1,
   "last_ayah": 0,
   "last_generated": null,
@@ -944,6 +944,16 @@
       "duration": 23.2,
       "video_id": "pok_N6o_8SQ",
       "date": "2026-10-28 01:26:51"
+    },
+    {
+      "surah": 72,
+      "surah_name": "الجن",
+      "start_ayah": 13,
+      "end_ayah": 17,
+      "reciter": "ناصر القطامي",
+      "duration": 56.6,
+      "video_id": "u5E3pdc0I5M",
+      "date": "2026-10-28 06:19:42"
     }
   ]
 }
