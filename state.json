@@ -1,6 +1,6 @@
 {
-  "total_generated": 100,
-  "last_reciter_idx": 2,
+  "total_generated": 101,
+  "last_reciter_idx": 3,
   "last_surah": 1,
   "last_ayah": 0,
   "last_generated": null,
@@ -1004,6 +1004,16 @@
       "duration": 58.1,
       "video_id": "9xCrVIAU3b4",
       "date": "2026-10-29 12:18:01"
+    },
+    {
+      "surah": 9,
+      "surah_name": "التوبة",
+      "start_ayah": 67,
+      "end_ayah": 67,
+      "reciter": "محمد صديق المنشاوي (مجود)",
+      "duration": 56.7,
+      "video_id": "OnA7F89YnIE",
+      "date": "2026-10-29 18:09:30"
     }
   ]
 }
