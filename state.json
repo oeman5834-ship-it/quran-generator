@@ -1,6 +1,6 @@
 {
-  "total_generated": 98,
-  "last_reciter_idx": 0,
+  "total_generated": 99,
+  "last_reciter_idx": 1,
   "last_surah": 1,
   "last_ayah": 0,
   "last_generated": null,
@@ -984,6 +984,16 @@
       "duration": 41.4,
       "video_id": "Tujb1tkoRmQ",
       "date": "2026-10-29 01:27:27"
+    },
+    {
+      "surah": 82,
+      "surah_name": "الانفطار",
+      "start_ayah": 11,
+      "end_ayah": 16,
+      "reciter": "عبدالباسط عبدالصمد (مجود)",
+      "duration": 52.0,
+      "video_id": "0wqfrsWKIm4",
+      "date": "2026-10-29 06:23:37"
     }
   ]
 }
