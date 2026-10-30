@@ -1,6 +1,6 @@
 {
-  "total_generated": 102,
-  "last_reciter_idx": 4,
+  "total_generated": 103,
+  "last_reciter_idx": 5,
   "last_surah": 1,
   "last_ayah": 0,
   "last_generated": null,
@@ -1024,6 +1024,16 @@
       "duration": 46.2,
       "video_id": "b9k7rzmeA-A",
       "date": "2026-10-30 01:29:23"
+    },
+    {
+      "surah": 90,
+      "surah_name": "البلد",
+      "start_ayah": 17,
+      "end_ayah": 20,
+      "reciter": "مشاري العفاسي",
+      "duration": 42.3,
+      "video_id": "aRroR7n2_4c",
+      "date": "2026-10-30 06:21:42"
     }
   ]
 }
