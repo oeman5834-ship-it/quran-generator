@@ -1,6 +1,6 @@
 {
-  "total_generated": 103,
-  "last_reciter_idx": 5,
+  "total_generated": 104,
+  "last_reciter_idx": 6,
   "last_surah": 1,
   "last_ayah": 0,
   "last_generated": null,
@@ -1034,6 +1034,16 @@
       "duration": 42.3,
       "video_id": "aRroR7n2_4c",
       "date": "2026-10-30 06:21:42"
+    },
+    {
+      "surah": 1,
+      "surah_name": "الفاتحة",
+      "start_ayah": 1,
+      "end_ayah": 7,
+      "reciter": "ماهر المعيقلي",
+      "duration": 31.5,
+      "video_id": "KCOJDftYq5k",
+      "date": "2026-10-30 12:12:40"
     }
   ]
 }
