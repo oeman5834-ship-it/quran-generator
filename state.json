@@ -1,6 +1,6 @@
 {
-  "total_generated": 101,
-  "last_reciter_idx": 3,
+  "total_generated": 102,
+  "last_reciter_idx": 4,
   "last_surah": 1,
   "last_ayah": 0,
   "last_generated": null,
@@ -1014,6 +1014,16 @@
       "duration": 56.7,
       "video_id": "OnA7F89YnIE",
       "date": "2026-10-29 18:09:30"
+    },
+    {
+      "surah": 101,
+      "surah_name": "القارعة",
+      "start_ayah": 10,
+      "end_ayah": 11,
+      "reciter": "محمود خليل الحصري",
+      "duration": 46.2,
+      "video_id": "b9k7rzmeA-A",
+      "date": "2026-10-30 01:29:23"
     }
   ]
 }
