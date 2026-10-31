@@ -1,6 +1,6 @@
 {
-  "total_generated": 108,
-  "last_reciter_idx": 10,
+  "total_generated": 109,
+  "last_reciter_idx": 11,
   "last_surah": 1,
   "last_ayah": 0,
   "last_generated": null,
@@ -1084,6 +1084,16 @@
       "duration": 58.9,
       "video_id": "BXAbRAcAPL8",
       "date": "2026-10-31 12:09:04"
+    },
+    {
+      "surah": 29,
+      "surah_name": "العنكبوت",
+      "start_ayah": 29,
+      "end_ayah": 31,
+      "reciter": "ناصر القطامي",
+      "duration": 59.2,
+      "video_id": "fHojcG0hxhc",
+      "date": "2026-10-31 17:52:20"
     }
   ]
 }
