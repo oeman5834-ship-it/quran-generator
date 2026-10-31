@@ -1,6 +1,6 @@
 {
-  "total_generated": 105,
-  "last_reciter_idx": 7,
+  "total_generated": 106,
+  "last_reciter_idx": 8,
   "last_surah": 1,
   "last_ayah": 0,
   "last_generated": null,
@@ -1054,6 +1054,16 @@
       "duration": 35.2,
       "video_id": "yNqTCfqZv7k",
       "date": "2026-10-30 17:58:44"
+    },
+    {
+      "surah": 81,
+      "surah_name": "التكوير",
+      "start_ayah": 16,
+      "end_ayah": 29,
+      "reciter": "عبدالرحمن السديس",
+      "duration": 60.5,
+      "video_id": "hT2dY7ld-2Y",
+      "date": "2026-10-31 01:27:49"
     }
   ]
 }
