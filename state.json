@@ -1,6 +1,6 @@
 {
-  "total_generated": 110,
-  "last_reciter_idx": 12,
+  "total_generated": 111,
+  "last_reciter_idx": 13,
   "last_surah": 1,
   "last_ayah": 0,
   "last_generated": null,
@@ -1104,6 +1104,16 @@
       "duration": 33.3,
       "video_id": "SRIgov5HPeo",
       "date": "2026-11-01 01:32:40"
+    },
+    {
+      "surah": 3,
+      "surah_name": "آل عمران",
+      "start_ayah": 37,
+      "end_ayah": 38,
+      "reciter": "أبو بكر الشاطري",
+      "duration": 57.4,
+      "video_id": "8nNLuKUEIeo",
+      "date": "2026-11-01 06:23:58"
     }
   ]
 }
