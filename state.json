@@ -1,6 +1,6 @@
 {
-  "total_generated": 111,
-  "last_reciter_idx": 13,
+  "total_generated": 112,
+  "last_reciter_idx": 0,
   "last_surah": 1,
   "last_ayah": 0,
   "last_generated": null,
@@ -1114,6 +1114,16 @@
       "duration": 57.4,
       "video_id": "8nNLuKUEIeo",
       "date": "2026-11-01 06:23:58"
+    },
+    {
+      "surah": 96,
+      "surah_name": "العلق",
+      "start_ayah": 13,
+      "end_ayah": 19,
+      "reciter": "عبدالباسط عبدالصمد (مرتل)",
+      "duration": 39.8,
+      "video_id": "foWHkPXTaPg",
+      "date": "2026-11-01 12:05:04"
     }
   ]
 }
