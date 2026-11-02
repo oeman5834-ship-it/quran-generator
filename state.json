@@ -1,6 +1,6 @@
 {
-  "total_generated": 115,
-  "last_reciter_idx": 3,
+  "total_generated": 116,
+  "last_reciter_idx": 4,
   "last_surah": 1,
   "last_ayah": 0,
   "last_generated": null,
@@ -1154,6 +1154,16 @@
       "duration": 54.8,
       "video_id": "BLVh8JyJ0Yo",
       "date": "2026-11-02 06:39:28"
+    },
+    {
+      "surah": 113,
+      "surah_name": "الفلق",
+      "start_ayah": 1,
+      "end_ayah": 5,
+      "reciter": "محمود خليل الحصري",
+      "duration": 33.6,
+      "video_id": "qqOjgVH0RTQ",
+      "date": "2026-11-02 12:27:14"
     }
   ]
 }
