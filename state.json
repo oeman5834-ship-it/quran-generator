@@ -1,6 +1,6 @@
 {
-  "total_generated": 114,
-  "last_reciter_idx": 2,
+  "total_generated": 115,
+  "last_reciter_idx": 3,
   "last_surah": 1,
   "last_ayah": 0,
   "last_generated": null,
@@ -1144,6 +1144,16 @@
       "duration": 60.6,
       "video_id": "k16JzdviRzo",
       "date": "2026-11-02 01:35:00"
+    },
+    {
+      "surah": 92,
+      "surah_name": "الليل",
+      "start_ayah": 11,
+      "end_ayah": 17,
+      "reciter": "محمد صديق المنشاوي (مجود)",
+      "duration": 54.8,
+      "video_id": "BLVh8JyJ0Yo",
+      "date": "2026-11-02 06:39:28"
     }
   ]
 }
