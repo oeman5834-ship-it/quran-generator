@@ -1,6 +1,6 @@
 {
-  "total_generated": 122,
-  "last_reciter_idx": 10,
+  "total_generated": 123,
+  "last_reciter_idx": 11,
   "last_surah": 1,
   "last_ayah": 0,
   "last_generated": null,
@@ -1224,6 +1224,16 @@
       "duration": 44.3,
       "video_id": null,
       "date": "2026-11-04 01:31:53"
+    },
+    {
+      "surah": 34,
+      "surah_name": "سبأ",
+      "start_ayah": 2,
+      "end_ayah": 3,
+      "reciter": "ناصر القطامي",
+      "duration": 58.3,
+      "video_id": null,
+      "date": "2026-11-04 06:39:27"
     }
   ]
 }
