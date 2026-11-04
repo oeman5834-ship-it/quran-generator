@@ -1,6 +1,6 @@
 {
-  "total_generated": 123,
-  "last_reciter_idx": 11,
+  "total_generated": 124,
+  "last_reciter_idx": 12,
   "last_surah": 1,
   "last_ayah": 0,
   "last_generated": null,
@@ -1234,6 +1234,16 @@
       "duration": 58.3,
       "video_id": null,
       "date": "2026-11-04 06:39:27"
+    },
+    {
+      "surah": 85,
+      "surah_name": "البروج",
+      "start_ayah": 7,
+      "end_ayah": 10,
+      "reciter": "أحمد العجمي",
+      "duration": 48.7,
+      "video_id": null,
+      "date": "2026-11-04 12:20:24"
     }
   ]
 }
