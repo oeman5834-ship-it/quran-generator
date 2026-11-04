@@ -1,6 +1,6 @@
 {
-  "total_generated": 124,
-  "last_reciter_idx": 12,
+  "total_generated": 125,
+  "last_reciter_idx": 13,
   "last_surah": 1,
   "last_ayah": 0,
   "last_generated": null,
@@ -1244,6 +1244,16 @@
       "duration": 48.7,
       "video_id": null,
       "date": "2026-11-04 12:20:24"
+    },
+    {
+      "surah": 34,
+      "surah_name": "سبأ",
+      "start_ayah": 24,
+      "end_ayah": 27,
+      "reciter": "أبو بكر الشاطري",
+      "duration": 57.0,
+      "video_id": null,
+      "date": "2026-11-04 18:11:44"
     }
   ]
 }
