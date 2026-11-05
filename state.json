@@ -1,6 +1,6 @@
 {
-  "total_generated": 127,
-  "last_reciter_idx": 1,
+  "total_generated": 128,
+  "last_reciter_idx": 2,
   "last_surah": 1,
   "last_ayah": 0,
   "last_generated": null,
@@ -1274,6 +1274,16 @@
       "duration": 48.3,
       "video_id": null,
       "date": "2026-11-05 06:38:31"
+    },
+    {
+      "surah": 80,
+      "surah_name": "عبس",
+      "start_ayah": 15,
+      "end_ayah": 26,
+      "reciter": "محمد صديق المنشاوي (مرتل)",
+      "duration": 61.0,
+      "video_id": null,
+      "date": "2026-11-05 12:29:31"
     }
   ]
 }
