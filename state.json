@@ -1,6 +1,6 @@
 {
-  "total_generated": 125,
-  "last_reciter_idx": 13,
+  "total_generated": 126,
+  "last_reciter_idx": 0,
   "last_surah": 1,
   "last_ayah": 0,
   "last_generated": null,
@@ -1254,6 +1254,16 @@
       "duration": 57.0,
       "video_id": null,
       "date": "2026-11-04 18:11:44"
+    },
+    {
+      "surah": 111,
+      "surah_name": "المسد",
+      "start_ayah": 2,
+      "end_ayah": 5,
+      "reciter": "عبدالباسط عبدالصمد (مرتل)",
+      "duration": 27.1,
+      "video_id": null,
+      "date": "2026-11-05 01:33:11"
     }
   ]
 }
