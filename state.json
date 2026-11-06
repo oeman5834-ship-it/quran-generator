@@ -1,6 +1,6 @@
 {
-  "total_generated": 129,
-  "last_reciter_idx": 3,
+  "total_generated": 130,
+  "last_reciter_idx": 4,
   "last_surah": 1,
   "last_ayah": 0,
   "last_generated": null,
@@ -1294,6 +1294,16 @@
       "duration": 29.9,
       "video_id": null,
       "date": "2026-11-05 18:02:42"
+    },
+    {
+      "surah": 103,
+      "surah_name": "العصر",
+      "start_ayah": 2,
+      "end_ayah": 3,
+      "reciter": "محمود خليل الحصري",
+      "duration": 26.2,
+      "video_id": null,
+      "date": "2026-11-06 01:35:18"
     }
   ]
 }
