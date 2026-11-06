@@ -1,6 +1,6 @@
 {
-  "total_generated": 130,
-  "last_reciter_idx": 4,
+  "total_generated": 131,
+  "last_reciter_idx": 5,
   "last_surah": 1,
   "last_ayah": 0,
   "last_generated": null,
@@ -1304,6 +1304,16 @@
       "duration": 26.2,
       "video_id": null,
       "date": "2026-11-06 01:35:18"
+    },
+    {
+      "surah": 79,
+      "surah_name": "النازعات",
+      "start_ayah": 42,
+      "end_ayah": 46,
+      "reciter": "مشاري العفاسي",
+      "duration": 42.6,
+      "video_id": null,
+      "date": "2026-11-06 06:50:25"
     }
   ]
 }
