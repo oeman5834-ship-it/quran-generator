@@ -1,6 +1,6 @@
 {
-  "total_generated": 137,
-  "last_reciter_idx": 11,
+  "total_generated": 138,
+  "last_reciter_idx": 12,
   "last_surah": 1,
   "last_ayah": 0,
   "last_generated": null,
@@ -1374,6 +1374,16 @@
       "duration": 42.1,
       "video_id": null,
       "date": "2026-11-08 01:32:47"
+    },
+    {
+      "surah": 100,
+      "surah_name": "العاديات",
+      "start_ayah": 3,
+      "end_ayah": 11,
+      "reciter": "أحمد العجمي",
+      "duration": 44.4,
+      "video_id": null,
+      "date": "2026-11-08 06:29:21"
     }
   ]
 }
