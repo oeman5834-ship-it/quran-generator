@@ -1,6 +1,6 @@
 {
-  "total_generated": 138,
-  "last_reciter_idx": 12,
+  "total_generated": 139,
+  "last_reciter_idx": 13,
   "last_surah": 1,
   "last_ayah": 0,
   "last_generated": null,
@@ -1384,6 +1384,16 @@
       "duration": 44.4,
       "video_id": null,
       "date": "2026-11-08 06:29:21"
+    },
+    {
+      "surah": 89,
+      "surah_name": "الفجر",
+      "start_ayah": 2,
+      "end_ayah": 14,
+      "reciter": "أبو بكر الشاطري",
+      "duration": 54.4,
+      "video_id": null,
+      "date": "2026-11-08 12:12:50"
     }
   ]
 }
