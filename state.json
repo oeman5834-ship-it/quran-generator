@@ -1,6 +1,6 @@
 {
-  "total_generated": 136,
-  "last_reciter_idx": 10,
+  "total_generated": 137,
+  "last_reciter_idx": 11,
   "last_surah": 1,
   "last_ayah": 0,
   "last_generated": null,
@@ -1364,6 +1364,16 @@
       "duration": 57.0,
       "video_id": null,
       "date": "2026-11-07 17:54:44"
+    },
+    {
+      "surah": 90,
+      "surah_name": "البلد",
+      "start_ayah": 13,
+      "end_ayah": 20,
+      "reciter": "ناصر القطامي",
+      "duration": 42.1,
+      "video_id": null,
+      "date": "2026-11-08 01:32:47"
     }
   ]
 }
