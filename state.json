@@ -1,6 +1,6 @@
 {
-  "total_generated": 142,
-  "last_reciter_idx": 2,
+  "total_generated": 143,
+  "last_reciter_idx": 3,
   "last_surah": 1,
   "last_ayah": 0,
   "last_generated": null,
@@ -1424,6 +1424,16 @@
       "duration": 56.8,
       "video_id": null,
       "date": "2026-11-09 06:42:55"
+    },
+    {
+      "surah": 95,
+      "surah_name": "التين",
+      "start_ayah": 2,
+      "end_ayah": 7,
+      "reciter": "محمد صديق المنشاوي (مجود)",
+      "duration": 57.9,
+      "video_id": null,
+      "date": "2026-11-09 12:31:44"
     }
   ]
 }
