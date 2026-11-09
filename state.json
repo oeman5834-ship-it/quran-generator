@@ -1,6 +1,6 @@
 {
-  "total_generated": 140,
-  "last_reciter_idx": 0,
+  "total_generated": 141,
+  "last_reciter_idx": 1,
   "last_surah": 1,
   "last_ayah": 0,
   "last_generated": null,
@@ -1404,6 +1404,16 @@
       "duration": 39.3,
       "video_id": null,
       "date": "2026-11-08 17:52:56"
+    },
+    {
+      "surah": 58,
+      "surah_name": "المجادلة",
+      "start_ayah": 10,
+      "end_ayah": 10,
+      "reciter": "عبدالباسط عبدالصمد (مجود)",
+      "duration": 44.9,
+      "video_id": null,
+      "date": "2026-11-09 01:37:20"
     }
   ]
 }
