@@ -1,6 +1,6 @@
 {
-  "total_generated": 141,
-  "last_reciter_idx": 1,
+  "total_generated": 142,
+  "last_reciter_idx": 2,
   "last_surah": 1,
   "last_ayah": 0,
   "last_generated": null,
@@ -1414,6 +1414,16 @@
       "duration": 44.9,
       "video_id": null,
       "date": "2026-11-09 01:37:20"
+    },
+    {
+      "surah": 79,
+      "surah_name": "النازعات",
+      "start_ayah": 32,
+      "end_ayah": 40,
+      "reciter": "محمد صديق المنشاوي (مرتل)",
+      "duration": 56.8,
+      "video_id": null,
+      "date": "2026-11-09 06:42:55"
     }
   ]
 }
