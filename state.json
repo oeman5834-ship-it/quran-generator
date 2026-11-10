@@ -1,6 +1,6 @@
 {
-  "total_generated": 145,
-  "last_reciter_idx": 5,
+  "total_generated": 146,
+  "last_reciter_idx": 6,
   "last_surah": 1,
   "last_ayah": 0,
   "last_generated": null,
@@ -1454,6 +1454,16 @@
       "duration": 45.6,
       "video_id": null,
       "date": "2026-11-10 06:47:43"
+    },
+    {
+      "surah": 109,
+      "surah_name": "الكافرون",
+      "start_ayah": 3,
+      "end_ayah": 6,
+      "reciter": "ماهر المعيقلي",
+      "duration": 27.6,
+      "video_id": null,
+      "date": "2026-11-10 12:21:37"
     }
   ]
 }
