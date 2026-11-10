@@ -1,6 +1,6 @@
 {
-  "total_generated": 143,
-  "last_reciter_idx": 3,
+  "total_generated": 144,
+  "last_reciter_idx": 4,
   "last_surah": 1,
   "last_ayah": 0,
   "last_generated": null,
@@ -1434,6 +1434,16 @@
       "duration": 57.9,
       "video_id": null,
       "date": "2026-11-09 12:31:44"
+    },
+    {
+      "surah": 83,
+      "surah_name": "المطففين",
+      "start_ayah": 11,
+      "end_ayah": 15,
+      "reciter": "محمود خليل الحصري",
+      "duration": 60.8,
+      "video_id": null,
+      "date": "2026-11-10 01:32:23"
     }
   ]
 }
