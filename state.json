@@ -1,6 +1,6 @@
 {
-  "total_generated": 148,
-  "last_reciter_idx": 8,
+  "total_generated": 149,
+  "last_reciter_idx": 9,
   "last_surah": 1,
   "last_ayah": 0,
   "last_generated": null,
@@ -1484,6 +1484,16 @@
       "duration": 50.3,
       "video_id": null,
       "date": "2026-11-11 01:31:26"
+    },
+    {
+      "surah": 102,
+      "surah_name": "التكاثر",
+      "start_ayah": 5,
+      "end_ayah": 8,
+      "reciter": "سعد الغامدي",
+      "duration": 38.1,
+      "video_id": null,
+      "date": "2026-11-11 06:35:58"
     }
   ]
 }
