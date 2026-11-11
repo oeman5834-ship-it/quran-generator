@@ -1,6 +1,6 @@
 {
-  "total_generated": 147,
-  "last_reciter_idx": 7,
+  "total_generated": 148,
+  "last_reciter_idx": 8,
   "last_surah": 1,
   "last_ayah": 0,
   "last_generated": null,
@@ -1474,6 +1474,16 @@
       "duration": 60.7,
       "video_id": null,
       "date": "2026-11-10 18:05:05"
+    },
+    {
+      "surah": 92,
+      "surah_name": "الليل",
+      "start_ayah": 10,
+      "end_ayah": 21,
+      "reciter": "عبدالرحمن السديس",
+      "duration": 50.3,
+      "video_id": null,
+      "date": "2026-11-11 01:31:26"
     }
   ]
 }
