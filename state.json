@@ -1,6 +1,6 @@
 {
-  "total_generated": 151,
-  "last_reciter_idx": 11,
+  "total_generated": 152,
+  "last_reciter_idx": 12,
   "last_surah": 1,
   "last_ayah": 0,
   "last_generated": null,
@@ -1514,6 +1514,16 @@
       "duration": 61.4,
       "video_id": null,
       "date": "2026-11-11 18:11:56"
+    },
+    {
+      "surah": 11,
+      "surah_name": "هود",
+      "start_ayah": 102,
+      "end_ayah": 105,
+      "reciter": "أحمد العجمي",
+      "duration": 51.4,
+      "video_id": null,
+      "date": "2026-11-12 01:40:02"
     }
   ]
 }
