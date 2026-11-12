@@ -1,6 +1,6 @@
 {
-  "total_generated": 153,
-  "last_reciter_idx": 13,
+  "total_generated": 154,
+  "last_reciter_idx": 0,
   "last_surah": 1,
   "last_ayah": 0,
   "last_generated": null,
@@ -1534,6 +1534,16 @@
       "duration": 61.4,
       "video_id": null,
       "date": "2026-11-12 06:41:12"
+    },
+    {
+      "surah": 41,
+      "surah_name": "فصلت",
+      "start_ayah": 38,
+      "end_ayah": 39,
+      "reciter": "عبدالباسط عبدالصمد (مرتل)",
+      "duration": 51.6,
+      "video_id": null,
+      "date": "2026-11-12 12:30:06"
     }
   ]
 }
