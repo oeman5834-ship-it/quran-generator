@@ -1,6 +1,6 @@
 {
-  "total_generated": 152,
-  "last_reciter_idx": 12,
+  "total_generated": 153,
+  "last_reciter_idx": 13,
   "last_surah": 1,
   "last_ayah": 0,
   "last_generated": null,
@@ -1524,6 +1524,16 @@
       "duration": 51.4,
       "video_id": null,
       "date": "2026-11-12 01:40:02"
+    },
+    {
+      "surah": 79,
+      "surah_name": "النازعات",
+      "start_ayah": 7,
+      "end_ayah": 18,
+      "reciter": "أبو بكر الشاطري",
+      "duration": 61.4,
+      "video_id": null,
+      "date": "2026-11-12 06:41:12"
     }
   ]
 }
