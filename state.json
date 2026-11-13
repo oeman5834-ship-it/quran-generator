@@ -1,6 +1,6 @@
 {
-  "total_generated": 158,
-  "last_reciter_idx": 4,
+  "total_generated": 159,
+  "last_reciter_idx": 5,
   "last_surah": 1,
   "last_ayah": 0,
   "last_generated": null,
@@ -1584,6 +1584,16 @@
       "duration": 51.3,
       "video_id": null,
       "date": "2026-11-13 12:29:28"
+    },
+    {
+      "surah": 1,
+      "surah_name": "الفاتحة",
+      "start_ayah": 6,
+      "end_ayah": 7,
+      "reciter": "مشاري العفاسي",
+      "duration": 41.2,
+      "video_id": null,
+      "date": "2026-11-13 18:06:56"
     }
   ]
 }
