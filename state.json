@@ -1,6 +1,6 @@
 {
-  "total_generated": 161,
-  "last_reciter_idx": 7,
+  "total_generated": 162,
+  "last_reciter_idx": 8,
   "last_surah": 1,
   "last_ayah": 0,
   "last_generated": null,
@@ -1614,6 +1614,16 @@
       "duration": 35.4,
       "video_id": null,
       "date": "2026-11-14 06:31:25"
+    },
+    {
+      "surah": 96,
+      "surah_name": "العلق",
+      "start_ayah": 4,
+      "end_ayah": 19,
+      "reciter": "عبدالرحمن السديس",
+      "duration": 58.1,
+      "video_id": null,
+      "date": "2026-11-14 12:14:06"
     }
   ]
 }
