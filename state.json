@@ -1,6 +1,6 @@
 {
-  "total_generated": 159,
-  "last_reciter_idx": 5,
+  "total_generated": 160,
+  "last_reciter_idx": 6,
   "last_surah": 1,
   "last_ayah": 0,
   "last_generated": null,
@@ -1594,6 +1594,16 @@
       "duration": 41.2,
       "video_id": null,
       "date": "2026-11-13 18:06:56"
+    },
+    {
+      "surah": 81,
+      "surah_name": "التكوير",
+      "start_ayah": 7,
+      "end_ayah": 23,
+      "reciter": "ماهر المعيقلي",
+      "duration": 59.9,
+      "video_id": null,
+      "date": "2026-11-14 01:31:44"
     }
   ]
 }
