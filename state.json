@@ -1,6 +1,6 @@
 {
-  "total_generated": 164,
-  "last_reciter_idx": 10,
+  "total_generated": 165,
+  "last_reciter_idx": 11,
   "last_surah": 1,
   "last_ayah": 0,
   "last_generated": null,
@@ -1644,6 +1644,16 @@
       "duration": 58.7,
       "video_id": null,
       "date": "2026-11-15 01:34:38"
+    },
+    {
+      "surah": 87,
+      "surah_name": "الأعلى",
+      "start_ayah": 9,
+      "end_ayah": 19,
+      "reciter": "ناصر القطامي",
+      "duration": 51.4,
+      "video_id": null,
+      "date": "2026-11-15 06:31:48"
     }
   ]
 }
