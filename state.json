@@ -1,6 +1,6 @@
 {
-  "total_generated": 169,
-  "last_reciter_idx": 1,
+  "total_generated": 170,
+  "last_reciter_idx": 2,
   "last_surah": 1,
   "last_ayah": 0,
   "last_generated": null,
@@ -1694,6 +1694,16 @@
       "duration": 61.3,
       "video_id": null,
       "date": "2026-11-16 07:20:55"
+    },
+    {
+      "surah": 92,
+      "surah_name": "الليل",
+      "start_ayah": 17,
+      "end_ayah": 21,
+      "reciter": "محمد صديق المنشاوي (مرتل)",
+      "duration": 43.8,
+      "video_id": null,
+      "date": "2026-11-16 13:39:15"
     }
   ]
 }
