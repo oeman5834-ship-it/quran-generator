@@ -1,6 +1,6 @@
 {
-  "total_generated": 167,
-  "last_reciter_idx": 13,
+  "total_generated": 168,
+  "last_reciter_idx": 0,
   "last_surah": 1,
   "last_ayah": 0,
   "last_generated": null,
@@ -1674,6 +1674,16 @@
       "duration": 56.5,
       "video_id": null,
       "date": "2026-11-15 17:57:20"
+    },
+    {
+      "surah": 69,
+      "surah_name": "الحاقة",
+      "start_ayah": 4,
+      "end_ayah": 8,
+      "reciter": "عبدالباسط عبدالصمد (مرتل)",
+      "duration": 51.6,
+      "video_id": null,
+      "date": "2026-11-16 01:53:11"
     }
   ]
 }
