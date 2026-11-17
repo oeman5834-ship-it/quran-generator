@@ -1,6 +1,6 @@
 {
-  "total_generated": 171,
-  "last_reciter_idx": 3,
+  "total_generated": 172,
+  "last_reciter_idx": 4,
   "last_surah": 1,
   "last_ayah": 0,
   "last_generated": null,
@@ -1714,6 +1714,16 @@
       "duration": 57.4,
       "video_id": null,
       "date": "2026-11-16 18:18:04"
+    },
+    {
+      "surah": 88,
+      "surah_name": "الغاشية",
+      "start_ayah": 13,
+      "end_ayah": 21,
+      "reciter": "محمود خليل الحصري",
+      "duration": 56.4,
+      "video_id": null,
+      "date": "2026-11-17 01:41:31"
     }
   ]
 }
