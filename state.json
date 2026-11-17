@@ -1,6 +1,6 @@
 {
-  "total_generated": 174,
-  "last_reciter_idx": 6,
+  "total_generated": 175,
+  "last_reciter_idx": 7,
   "last_surah": 1,
   "last_ayah": 0,
   "last_generated": null,
@@ -1744,6 +1744,16 @@
       "duration": 40.5,
       "video_id": null,
       "date": "2026-11-17 12:23:42"
+    },
+    {
+      "surah": 88,
+      "surah_name": "الغاشية",
+      "start_ayah": 4,
+      "end_ayah": 24,
+      "reciter": "سعود الشريم",
+      "duration": 59.6,
+      "video_id": null,
+      "date": "2026-11-17 18:16:48"
     }
   ]
 }
