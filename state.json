@@ -1,6 +1,6 @@
 {
-  "total_generated": 173,
-  "last_reciter_idx": 5,
+  "total_generated": 174,
+  "last_reciter_idx": 6,
   "last_surah": 1,
   "last_ayah": 0,
   "last_generated": null,
@@ -1734,6 +1734,16 @@
       "duration": 60.7,
       "video_id": null,
       "date": "2026-11-17 06:42:27"
+    },
+    {
+      "surah": 86,
+      "surah_name": "الطارق",
+      "start_ayah": 13,
+      "end_ayah": 17,
+      "reciter": "ماهر المعيقلي",
+      "duration": 40.5,
+      "video_id": null,
+      "date": "2026-11-17 12:23:42"
     }
   ]
 }
