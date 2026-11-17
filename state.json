@@ -1,6 +1,6 @@
 {
-  "total_generated": 172,
-  "last_reciter_idx": 4,
+  "total_generated": 173,
+  "last_reciter_idx": 5,
   "last_surah": 1,
   "last_ayah": 0,
   "last_generated": null,
@@ -1724,6 +1724,16 @@
       "duration": 56.4,
       "video_id": null,
       "date": "2026-11-17 01:41:31"
+    },
+    {
+      "surah": 69,
+      "surah_name": "الحاقة",
+      "start_ayah": 42,
+      "end_ayah": 49,
+      "reciter": "مشاري العفاسي",
+      "duration": 60.7,
+      "video_id": null,
+      "date": "2026-11-17 06:42:27"
     }
   ]
 }
