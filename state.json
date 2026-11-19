@@ -1,6 +1,6 @@
 {
-  "total_generated": 181,
-  "last_reciter_idx": 13,
+  "total_generated": 182,
+  "last_reciter_idx": 0,
   "last_surah": 1,
   "last_ayah": 0,
   "last_generated": null,
@@ -1814,6 +1814,16 @@
       "duration": 35.2,
       "video_id": null,
       "date": "2026-11-19 06:36:25"
+    },
+    {
+      "surah": 85,
+      "surah_name": "البروج",
+      "start_ayah": 10,
+      "end_ayah": 18,
+      "reciter": "عبدالباسط عبدالصمد (مرتل)",
+      "duration": 58.0,
+      "video_id": null,
+      "date": "2026-11-19 12:31:12"
     }
   ]
 }
