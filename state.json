@@ -1,6 +1,6 @@
 {
-  "total_generated": 182,
-  "last_reciter_idx": 0,
+  "total_generated": 183,
+  "last_reciter_idx": 1,
   "last_surah": 1,
   "last_ayah": 0,
   "last_generated": null,
@@ -1824,6 +1824,16 @@
       "duration": 58.0,
       "video_id": null,
       "date": "2026-11-19 12:31:12"
+    },
+    {
+      "surah": 82,
+      "surah_name": "الانفطار",
+      "start_ayah": 13,
+      "end_ayah": 18,
+      "reciter": "عبدالباسط عبدالصمد (مجود)",
+      "duration": 58.2,
+      "video_id": null,
+      "date": "2026-11-19 18:15:49"
     }
   ]
 }
