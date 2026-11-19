@@ -1,6 +1,6 @@
 {
-  "total_generated": 180,
-  "last_reciter_idx": 12,
+  "total_generated": 181,
+  "last_reciter_idx": 13,
   "last_surah": 1,
   "last_ayah": 0,
   "last_generated": null,
@@ -1804,6 +1804,16 @@
       "duration": 60.7,
       "video_id": null,
       "date": "2026-11-19 01:53:46"
+    },
+    {
+      "surah": 97,
+      "surah_name": "القدر",
+      "start_ayah": 1,
+      "end_ayah": 5,
+      "reciter": "أبو بكر الشاطري",
+      "duration": 35.2,
+      "video_id": null,
+      "date": "2026-11-19 06:36:25"
     }
   ]
 }
