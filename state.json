@@ -1,6 +1,6 @@
 {
-  "total_generated": 184,
-  "last_reciter_idx": 2,
+  "total_generated": 185,
+  "last_reciter_idx": 3,
   "last_surah": 1,
   "last_ayah": 0,
   "last_generated": null,
@@ -1844,6 +1844,16 @@
       "duration": 38.9,
       "video_id": null,
       "date": "2026-11-20 01:35:59"
+    },
+    {
+      "surah": 31,
+      "surah_name": "لقمان",
+      "start_ayah": 9,
+      "end_ayah": 10,
+      "reciter": "محمد صديق المنشاوي (مجود)",
+      "duration": 76.6,
+      "video_id": null,
+      "date": "2026-11-20 06:38:48"
     }
   ]
 }
