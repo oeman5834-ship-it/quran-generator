@@ -1,6 +1,6 @@
 {
-  "total_generated": 189,
-  "last_reciter_idx": 7,
+  "total_generated": 190,
+  "last_reciter_idx": 8,
   "last_surah": 1,
   "last_ayah": 0,
   "last_generated": null,
@@ -1894,6 +1894,16 @@
       "duration": 59.4,
       "video_id": null,
       "date": "2026-11-21 06:39:35"
+    },
+    {
+      "surah": 53,
+      "surah_name": "النجم",
+      "start_ayah": 58,
+      "end_ayah": 62,
+      "reciter": "عبدالرحمن السديس",
+      "duration": 42.4,
+      "video_id": null,
+      "date": "2026-11-21 12:16:55"
     }
   ]
 }
