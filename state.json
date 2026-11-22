@@ -1,6 +1,6 @@
 {
-  "total_generated": 193,
-  "last_reciter_idx": 11,
+  "total_generated": 194,
+  "last_reciter_idx": 12,
   "last_surah": 1,
   "last_ayah": 0,
   "last_generated": null,
@@ -1934,6 +1934,16 @@
       "duration": 41.0,
       "video_id": null,
       "date": "2026-11-22 06:34:37"
+    },
+    {
+      "surah": 110,
+      "surah_name": "النصر",
+      "start_ayah": 1,
+      "end_ayah": 3,
+      "reciter": "أحمد العجمي",
+      "duration": 24.6,
+      "video_id": null,
+      "date": "2026-11-22 12:16:02"
     }
   ]
 }
