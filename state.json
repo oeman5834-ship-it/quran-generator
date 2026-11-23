@@ -1,6 +1,6 @@
 {
-  "total_generated": 196,
-  "last_reciter_idx": 0,
+  "total_generated": 197,
+  "last_reciter_idx": 1,
   "last_surah": 1,
   "last_ayah": 0,
   "last_generated": null,
@@ -1964,6 +1964,16 @@
       "duration": 59.1,
       "video_id": null,
       "date": "2026-11-23 01:44:10"
+    },
+    {
+      "surah": 63,
+      "surah_name": "المنافقون",
+      "start_ayah": 2,
+      "end_ayah": 3,
+      "reciter": "عبدالباسط عبدالصمد (مجود)",
+      "duration": 60.3,
+      "video_id": null,
+      "date": "2026-11-23 06:48:57"
     }
   ]
 }
