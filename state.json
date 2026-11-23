@@ -1,6 +1,6 @@
 {
-  "total_generated": 197,
-  "last_reciter_idx": 1,
+  "total_generated": 198,
+  "last_reciter_idx": 2,
   "last_surah": 1,
   "last_ayah": 0,
   "last_generated": null,
@@ -1974,6 +1974,16 @@
       "duration": 60.3,
       "video_id": null,
       "date": "2026-11-23 06:48:57"
+    },
+    {
+      "surah": 6,
+      "surah_name": "الأنعام",
+      "start_ayah": 94,
+      "end_ayah": 95,
+      "reciter": "محمد صديق المنشاوي (مرتل)",
+      "duration": 60.1,
+      "video_id": null,
+      "date": "2026-11-23 12:35:23"
     }
   ]
 }
