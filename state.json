@@ -1,6 +1,6 @@
 {
-  "total_generated": 201,
-  "last_reciter_idx": 5,
+  "total_generated": 202,
+  "last_reciter_idx": 6,
   "last_surah": 1,
   "last_ayah": 0,
   "last_generated": null,
@@ -2014,6 +2014,16 @@
       "duration": 43.6,
       "video_id": null,
       "date": "2026-11-24 06:33:59"
+    },
+    {
+      "surah": 104,
+      "surah_name": "الهمزة",
+      "start_ayah": 3,
+      "end_ayah": 9,
+      "reciter": "ماهر المعيقلي",
+      "duration": 33.6,
+      "video_id": null,
+      "date": "2026-11-24 12:31:48"
     }
   ]
 }
