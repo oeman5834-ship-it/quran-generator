@@ -1,6 +1,6 @@
 {
-  "total_generated": 199,
-  "last_reciter_idx": 3,
+  "total_generated": 200,
+  "last_reciter_idx": 4,
   "last_surah": 1,
   "last_ayah": 0,
   "last_generated": null,
@@ -1994,6 +1994,16 @@
       "duration": 29.9,
       "video_id": null,
       "date": "2026-11-23 18:15:52"
+    },
+    {
+      "surah": 114,
+      "surah_name": "الناس",
+      "start_ayah": 2,
+      "end_ayah": 6,
+      "reciter": "محمود خليل الحصري",
+      "duration": 40.8,
+      "video_id": null,
+      "date": "2026-11-24 01:57:50"
     }
   ]
 }
