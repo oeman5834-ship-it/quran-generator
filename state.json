@@ -1,6 +1,6 @@
 {
-  "total_generated": 205,
-  "last_reciter_idx": 9,
+  "total_generated": 206,
+  "last_reciter_idx": 10,
   "last_surah": 1,
   "last_ayah": 0,
   "last_generated": null,
@@ -2054,6 +2054,16 @@
       "duration": 61.4,
       "video_id": null,
       "date": "2026-11-25 16:04:13"
+    },
+    {
+      "surah": 78,
+      "surah_name": "النبأ",
+      "start_ayah": 9,
+      "end_ayah": 19,
+      "reciter": "ياسر الدوسري",
+      "duration": 59.4,
+      "video_id": null,
+      "date": "2026-11-25 20:40:00"
     }
   ]
 }
