@@ -1,6 +1,6 @@
 {
-  "total_generated": 208,
-  "last_reciter_idx": 12,
+  "total_generated": 209,
+  "last_reciter_idx": 13,
   "last_surah": 1,
   "last_ayah": 0,
   "last_generated": null,
@@ -2084,6 +2084,16 @@
       "duration": 27.7,
       "video_id": null,
       "date": "2026-11-26 03:53:35"
+    },
+    {
+      "surah": 20,
+      "surah_name": "طه",
+      "start_ayah": 105,
+      "end_ayah": 109,
+      "reciter": "أبو بكر الشاطري",
+      "duration": 52.1,
+      "video_id": null,
+      "date": "2026-11-26 08:40:03"
     }
   ]
 }
