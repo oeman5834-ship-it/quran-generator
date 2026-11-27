@@ -1,6 +1,6 @@
 {
-  "total_generated": 216,
-  "last_reciter_idx": 6,
+  "total_generated": 217,
+  "last_reciter_idx": 7,
   "last_surah": 1,
   "last_ayah": 0,
   "last_generated": null,
@@ -2164,6 +2164,16 @@
       "duration": 45.1,
       "video_id": "Ag_Bsq9Ap40",
       "date": "2026-11-27 08:51:19"
+    },
+    {
+      "surah": 109,
+      "surah_name": "الكافرون",
+      "start_ayah": 2,
+      "end_ayah": 6,
+      "reciter": "سعود الشريم",
+      "duration": 23.0,
+      "video_id": "CKf4M0usDIY",
+      "date": "2026-11-27 15:34:35"
     }
   ]
 }
