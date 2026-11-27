@@ -1,6 +1,6 @@
 {
-  "total_generated": 217,
-  "last_reciter_idx": 7,
+  "total_generated": 218,
+  "last_reciter_idx": 8,
   "last_surah": 1,
   "last_ayah": 0,
   "last_generated": null,
@@ -2174,6 +2174,16 @@
       "duration": 23.0,
       "video_id": "CKf4M0usDIY",
       "date": "2026-11-27 15:34:35"
+    },
+    {
+      "surah": 90,
+      "surah_name": "البلد",
+      "start_ayah": 16,
+      "end_ayah": 20,
+      "reciter": "عبدالرحمن السديس",
+      "duration": 39.0,
+      "video_id": "PuEyKY7gH4I",
+      "date": "2026-11-27 18:36:27"
     }
   ]
 }
