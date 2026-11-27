@@ -1,6 +1,6 @@
 {
-  "total_generated": 214,
-  "last_reciter_idx": 4,
+  "total_generated": 215,
+  "last_reciter_idx": 5,
   "last_surah": 1,
   "last_ayah": 0,
   "last_generated": null,
@@ -2144,6 +2144,16 @@
       "duration": 61.0,
       "video_id": null,
       "date": "2026-11-27 02:08:38"
+    },
+    {
+      "surah": 104,
+      "surah_name": "الهمزة",
+      "start_ayah": 2,
+      "end_ayah": 9,
+      "reciter": "مشاري العفاسي",
+      "duration": 40.7,
+      "video_id": "FedoxS7sw4o",
+      "date": "2026-11-27 03:01:39"
     }
   ]
 }
