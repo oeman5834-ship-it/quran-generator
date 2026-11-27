@@ -1,6 +1,6 @@
 {
-  "total_generated": 215,
-  "last_reciter_idx": 5,
+  "total_generated": 216,
+  "last_reciter_idx": 6,
   "last_surah": 1,
   "last_ayah": 0,
   "last_generated": null,
@@ -2154,6 +2154,16 @@
       "duration": 40.7,
       "video_id": "FedoxS7sw4o",
       "date": "2026-11-27 03:01:39"
+    },
+    {
+      "surah": 29,
+      "surah_name": "العنكبوت",
+      "start_ayah": 25,
+      "end_ayah": 26,
+      "reciter": "ماهر المعيقلي",
+      "duration": 45.1,
+      "video_id": "Ag_Bsq9Ap40",
+      "date": "2026-11-27 08:51:19"
     }
   ]
 }
