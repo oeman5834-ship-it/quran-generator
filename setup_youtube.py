@@ -37,7 +37,10 @@ SCRIPT_DIR = Path(__file__).parent.resolve()
 CLIENT_SECRET_FILE = SCRIPT_DIR / "client_secret.json"
 TOKEN_FILE = SCRIPT_DIR / "token.json"
 
-SCOPES = ["https://www.googleapis.com/auth/youtube.upload"]
+SCOPES = [
+    "https://www.googleapis.com/auth/youtube.upload",
+    "https://www.googleapis.com/auth/youtube.readonly"
+]
 
 
 def main():
