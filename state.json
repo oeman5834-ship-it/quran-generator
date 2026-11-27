@@ -1,6 +1,6 @@
 {
-  "total_generated": 218,
-  "last_reciter_idx": 8,
+  "total_generated": 219,
+  "last_reciter_idx": 9,
   "last_surah": 1,
   "last_ayah": 0,
   "last_generated": null,
@@ -2184,6 +2184,16 @@
       "duration": 39.0,
       "video_id": "PuEyKY7gH4I",
       "date": "2026-11-27 18:36:27"
+    },
+    {
+      "surah": 91,
+      "surah_name": "الشمس",
+      "start_ayah": 6,
+      "end_ayah": 15,
+      "reciter": "سعد الغامدي",
+      "duration": 47.4,
+      "video_id": "bwGqaCmY31w",
+      "date": "2026-11-27 20:14:49"
     }
   ]
 }
