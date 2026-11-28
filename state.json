@@ -1,6 +1,6 @@
 {
-  "total_generated": 219,
-  "last_reciter_idx": 9,
+  "total_generated": 220,
+  "last_reciter_idx": 10,
   "last_surah": 1,
   "last_ayah": 0,
   "last_generated": null,
@@ -2194,6 +2194,16 @@
       "duration": 47.4,
       "video_id": "bwGqaCmY31w",
       "date": "2026-11-27 20:14:49"
+    },
+    {
+      "surah": 107,
+      "surah_name": "الماعون",
+      "start_ayah": 5,
+      "end_ayah": 7,
+      "reciter": "ياسر الدوسري",
+      "duration": 28.7,
+      "video_id": "AKZsbx_9mro",
+      "date": "2026-11-28 00:38:40"
     }
   ]
 }
