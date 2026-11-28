@@ -1,6 +1,6 @@
 {
-  "total_generated": 220,
-  "last_reciter_idx": 10,
+  "total_generated": 221,
+  "last_reciter_idx": 11,
   "last_surah": 1,
   "last_ayah": 0,
   "last_generated": null,
@@ -2204,6 +2204,16 @@
       "duration": 28.7,
       "video_id": "AKZsbx_9mro",
       "date": "2026-11-28 00:38:40"
+    },
+    {
+      "surah": 18,
+      "surah_name": "الكهف",
+      "start_ayah": 46,
+      "end_ayah": 47,
+      "reciter": "ناصر القطامي",
+      "duration": 47.5,
+      "video_id": "2nPaSPNghts",
+      "date": "2026-11-28 08:06:30"
     }
   ]
 }
